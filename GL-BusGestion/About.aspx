@@ -7,7 +7,7 @@
             $("#formAddVisit").dialog({
                 autoOpen: false,
                 height: 400,
-                width: 351,
+                width: 350,
                 modal: true,
                 buttons: {
                     "Create an account": addUser,
